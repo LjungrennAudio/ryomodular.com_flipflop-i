@@ -1,0 +1,9 @@
+socket	d/j/t in
+socket	k in
+socket	clock in
+socket	j/k Q
+socket	j/k Q_
+socket	t Q
+socket	t Q_
+socket	d Q
+socket	d Q_

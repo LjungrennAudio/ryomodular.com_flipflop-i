@@ -1,0 +1,6 @@
+CD4015 Dual 4-Stage Static Shift Register
+
+[4 x 2] flipflops x [2 cos pulse versions] = 16 flipflops = [4xnand + 4xnot] x 16
+
+16 x CD4011 Quad 2-Input NAND Gate
+16 x 
